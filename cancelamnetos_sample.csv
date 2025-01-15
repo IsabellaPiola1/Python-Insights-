@@ -1,0 +1,2 @@
+CustomerID, idade, sexo, tempo_como_cliente, frequencia_uso, ligacoes_callcenter, dias_atrasos
+2.0,30.0, Female, 39.0, 14.0, 5.0, 18.0, Standard
